@@ -3,5 +3,6 @@ public class Main {
 
         System.out.println("Hello world11!");
         int a = 10;
+        System.out.println("a = " + a);
     }
 }
